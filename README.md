@@ -60,106 +60,104 @@
 
 ### 🌍 CASUS BELLI GEOGRAPHIC COVERAGE
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/World_map_-_low_resolution.svg/2000px-World_map_-_low_resolution.svg.png" width="80%"/>
+
+<br/><br/>
+
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/World_map_-_low_resolution.svg/2000px-World_map_-_low_resolution.svg.png" width="100%"/>
+![Middle East](https://img.shields.io/badge/🔴_MIDDLE_EAST-11_Countries-E30A17?style=for-the-badge)
 
-### **21 Countries Monitored Across 3 Strategic Regions**
+Turkey, Syria, Iraq, Iran, Israel/Palestine, Lebanon, Jordan, Saudi Arabia, UAE, Yemen, Bahrain
 
 </td>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🔴 MIDDLE EAST (11 countries)
-- 🇹🇷 Turkey
-- 🇸🇾 Syria
-- 🇮🇶 Iraq
-- 🇮🇷 Iran
-- 🇮🇱 Israel/Palestine
-- 🇱🇧 Lebanon
-- 🇯🇴 Jordan
-- 🇸🇦 Saudi Arabia
-- 🇦🇪 UAE
-- 🇾🇪 Yemen
-- 🇧🇭 Bahrain
+![Caucasus](https://img.shields.io/badge/🟠_CAUCASUS-3_Countries-FF6B35?style=for-the-badge)
 
-### 🟠 CAUCASUS (3 countries)
-- 🇦🇲 Armenia
-- 🇦🇿 Azerbaijan
-- 🇬🇪 Georgia
+Armenia, Azerbaijan, Georgia
 
-### 🟢 CENTRAL ASIA (7 countries)
-- 🇰🇿 Kazakhstan
-- 🇺🇿 Uzbekistan
-- 🇹🇲 Turkmenistan
-- 🇰🇬 Kyrgyzstan
-- 🇹🇯 Tajikistan
-- 🇦🇫 Afghanistan
-- 🇵🇰 Pakistan (partial)
+</td>
+<td width="33%" align="center">
+
+![Central Asia](https://img.shields.io/badge/🟢_CENTRAL_ASIA-7_Countries-28A745?style=for-the-badge)
+
+Kazakhstan, Uzbekistan, Turkmenistan, Kyrgyzstan, Tajikistan, Afghanistan, Pakistan
 
 </td>
 </tr>
 </table>
+
+### **21 Countries • 7 Active Conflict Zones • Real-time Monitoring 24/7**
 
 </div>
 
 <br/>
 
+---
+
 <div align="center">
 
-### Intelligence Capabilities
+## Intelligence Capabilities
+
+</div>
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="25%" align="center">
 
-![GEOINT](https://img.shields.io/badge/GEOINT-Satellite_&_Imagery-28A745?style=for-the-badge&logo=map)
+<img src="https://img.icons8.com/fluency/96/satellite.png" width="72" height="72"/>
 
-**Geospatial Intelligence**
-- Satellite imagery analysis
-- Terrain & infrastructure mapping
-- Military movement detection
-- Damage assessment
+### GEOINT
 
-</td>
-<td width="50%" align="center">
+![Badge](https://img.shields.io/badge/Geospatial-Intelligence-28A745?style=flat-square)
 
-![OSINT](https://img.shields.io/badge/OSINT-Multi--Source_Collection-00D4FF?style=for-the-badge&logo=search)
-
-**Open Source Intelligence**
-- Social media monitoring
-- Dark web tracking
-- Multi-language analysis (7 langs)
-- 45K+ monthly data points
+Satellite imagery analysis, terrain mapping, military movement detection, damage assessment
 
 </td>
-</tr>
-<tr>
-<td width="50%" align="center">
+<td width="25%" align="center">
 
-![CTI](https://img.shields.io/badge/CTI-APT_&_Threat_Tracking-FF6B35?style=for-the-badge&logo=shield)
+<img src="https://img.icons8.com/fluency/96/search.png" width="72" height="72"/>
 
-**Cyber Threat Intelligence**
-- 124 threat actors tracked
-- APT profiling & attribution
-- IOC collection
-- TTP analysis (MITRE ATT&CK)
+### OSINT
+
+![Badge](https://img.shields.io/badge/Multi--Source-Collection-00D4FF?style=flat-square)
+
+Social media monitoring, dark web tracking, 7 languages, 45K+ monthly data points
 
 </td>
-<td width="50%" align="center">
+<td width="25%" align="center">
 
-![HUMINT](https://img.shields.io/badge/HUMINT-Field_Intelligence-8B5CF6?style=for-the-badge&logo=user)
+<img src="https://img.icons8.com/fluency/96/security-checked.png" width="72" height="72"/>
 
-**Human Intelligence**
-- Field reporting & verification
-- Source network management
-- Strategic forecasting
-- Executive briefings
+### CTI
+
+![Badge](https://img.shields.io/badge/Threat-Intelligence-FF6B35?style=flat-square)
+
+124 threat actors tracked, APT profiling, IOC collection, MITRE ATT&CK mapping
+
+</td>
+<td width="25%" align="center">
+
+<img src="https://img.icons8.com/fluency/96/user-male-circle.png" width="72" height="72"/>
+
+### HUMINT
+
+![Badge](https://img.shields.io/badge/Field-Intelligence-8B5CF6?style=flat-square)
+
+Field reporting, source networks, strategic forecasting, executive briefings
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+**Methodologies:** HUMINT • OSINT • GEOINT • CTI • Predictive Analytics • AI/ML
+
+[![View Services](https://img.shields.io/badge/📋_View_Full_Services-FF6B35?style=for-the-badge&logo=globe&logoColor=white)](https://emirhan.eu/services)
 
 </div>
 
@@ -177,8 +175,6 @@
 <br/>
 
 ### **Strategic Intelligence on High-Stakes Conflict Zones**
-
-[![View Services](https://img.shields.io/badge/📋_View_Services-FF6B35?style=for-the-badge&logo=globe&logoColor=white)](https://emirhan.eu/services)
 
 </div>
 
@@ -233,8 +229,6 @@
 ![CTI](https://img.shields.io/badge/CTI-APT_&_Threat_Actor_Profiling-FF6B35?style=for-the-badge&logo=shield)
 ![GEOINT](https://img.shields.io/badge/GEOINT-Satellite_&_Geospatial_Analysis-28A745?style=for-the-badge&logo=map)
 ![Reports](https://img.shields.io/badge/Reports-Strategic_Intelligence-8B5CF6?style=for-the-badge&logo=file-text)
-
-**Methodologies:** HUMINT • OSINT • GEOINT • CTI • Predictive Analytics & AI
 
 </div>
 
