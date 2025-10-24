@@ -15,57 +15,82 @@
 
 <img src="https://komarev.com/ghpvc/?username=emirhcan&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="views" />
 
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/globe--v1.png" width="48" height="48"/>
+<br/><b>21 Countries</b>
+<br/><sub>Geographic Coverage</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/security-checked.png" width="48" height="48"/>
+<br/><b>124 Actors</b>
+<br/><sub>Tracked Threats</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/graph.png" width="48" height="48"/>
+<br/><b>45K+ Data Points</b>
+<br/><sub>Monthly Intelligence</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/alarm.png" width="48" height="48"/>
+<br/><b>7 Conflict Zones</b>
+<br/><sub>Active Monitoring</sub>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
 <div align="center">
 
-## **CTI & OSINT Specialist** | **Founder** of Casus Belli Intelligence
+## CTI & OSINT Specialist | Founder of **Casus Belli Intelligence**
 
-### Cybersecurity Consulting & Strategic Geopolitical Intelligence
+**Strategic Geopolitical Intelligence for High-Stakes Zones**
 
 </div>
 
-```python
-intelligence_platform = {
-    "name": "Casus Belli",
-    "status": "🟢 OPERATIONAL",
-    "founded": 2023,
-    "founder": "Emirhan",
+```typescript
+const CASUS_BELLI: IntelligencePlatform = {
+  status: "🟢 OPERATIONAL",
+  founded: 2023,
 
-    "mission": "Strategic geopolitical intelligence for high-stakes zones",
+  mission: "Transform raw geopolitical data into actionable intelligence",
 
-    "focus_areas": [
-        "Geopolitical Intelligence & Conflict Analysis",
-        "Open Source Intelligence (OSINT)",
-        "Cyber Threat Intelligence (CTI)",
-        "APT & State-Sponsored Actor Tracking",
-        "Threat Actor Profiling & Attribution"
-    ],
+  intelligence: {
+    GEOINT: "Satellite imagery & geospatial analysis",
+    OSINT: "Multi-source open intelligence collection",
+    HUMINT: "Human intelligence & field reporting",
+    CTI: "APT tracking & threat actor profiling",
+    AI_ML: "Automated threat detection & forecasting"
+  },
 
-    "geographic_coverage": {
-        "middle_east": ["Turkey", "Syria", "Iraq", "Iran", "Israel", "Lebanon", "..."],
-        "caucasus": ["Armenia", "Azerbaijan", "Georgia"],
-        "central_asia": ["Kazakhstan", "Uzbekistan", "Turkmenistan", "Kyrgyzstan", "Tajikistan", "..."],
-        "total_countries": 21
-    },
+  coverage: {
+    middle_east: 11,    // Turkey, Syria, Iraq, Iran, Israel, Lebanon...
+    caucasus: 3,        // Armenia, Azerbaijan, Georgia
+    central_asia: 7,    // Kazakhstan, Uzbekistan, Turkmenistan...
+    total: 21
+  },
 
-    "capabilities": [
-        "Multi-language OSINT (FR/TR/EN/FA/AR/HE/RU)",
-        "HUMINT & GEOINT collection",
-        "Automated threat detection (AI/ML)",
-        "Satellite imagery analysis",
-        "Strategic forecasting & risk assessment"
-    ],
+  capabilities: [
+    "Real-time conflict monitoring across 7 active zones",
+    "124 threat actors & APT groups tracked",
+    "Multi-language analysis (FR/TR/EN/FA/AR/HE/RU)",
+    "45,000+ intelligence data points monthly",
+    "Strategic forecasting & risk assessments",
+    "Custom OSINT investigations & executive briefings"
+  ],
 
-    "operational_metrics": {
-        "threat_actors_tracked": 124,
-        "active_conflicts_monitored": 7,
-        "intelligence_sources": "45K+ monthly data points"
-    },
-
-    "tech_stack": ["Python", "n8n", "ELK Stack", "OpenCTI", "LLM", "Docker", "Kubernetes"]
+  tech: {
+    automation: ["Python", "n8n", "Docker", "Kubernetes"],
+    intelligence: ["OpenCTI", "MISP", "ELK Stack"],
+    analysis: ["LLM", "TensorFlow", "ML Models"],
+    operations: ["XSOAR", "Splunk", "AWS"]
+  }
 }
 ```
 
@@ -77,14 +102,14 @@ intelligence_platform = {
 
 ![Status](https://img.shields.io/badge/Status-🟢_OPERATIONAL-28A745?style=for-the-badge)
 ![Coverage](https://img.shields.io/badge/Coverage-21_Countries-FF6B35?style=for-the-badge)
-![Since](https://img.shields.io/badge/Founded-2023-00D4FF?style=for-the-badge)
+![Founded](https://img.shields.io/badge/Founded-2023-00D4FF?style=for-the-badge)
 ![Monitoring](https://img.shields.io/badge/Tracked_Actors-124-DC3545?style=for-the-badge)
 
 <br/>
 
-### **Geopolitical Intelligence on High-Stakes Zones**
+### **Strategic Intelligence on High-Stakes Conflict Zones**
 
-[![Services](https://img.shields.io/badge/📋_View_Services-FF6B35?style=for-the-badge&logo=globe&logoColor=white)](https://emirhan.eu/services)
+[![View Services](https://img.shields.io/badge/📋_View_Services-FF6B35?style=for-the-badge&logo=globe&logoColor=white)](https://emirhan.eu/services)
 
 </div>
 
@@ -133,7 +158,7 @@ intelligence_platform = {
 
 <div align="center">
 
-### Intelligence Services Offered
+### Intelligence Services
 
 ![OSINT](https://img.shields.io/badge/OSINT-Multi--Source_Collection-00D4FF?style=for-the-badge&logo=search)
 ![CTI](https://img.shields.io/badge/CTI-APT_&_Threat_Actor_Profiling-FF6B35?style=for-the-badge&logo=shield)
@@ -143,6 +168,44 @@ intelligence_platform = {
 **Methodologies:** HUMINT • OSINT • GEOINT • CTI • Predictive Analytics & AI
 
 </div>
+
+---
+
+<div align="center">
+
+## Current Operations & Focus
+
+</div>
+
+```yaml
+Platform Operations:
+  └─ Casus Belli Intelligence Platform
+     ├─ Geographic Coverage: 21 countries (Middle East, Caucasus, Central Asia)
+     ├─ Active Conflict Monitoring: 7 high-intensity zones
+     ├─ Real-time Intelligence: 45,000+ monthly data points
+     └─ Multi-language Analysis: 7 languages (FR/TR/EN/FA/AR/HE/RU)
+
+Threat Intelligence:
+  └─ APT & State-Sponsored Actor Tracking
+     ├─ Tracked Threat Actors: 124 active groups
+     ├─ IOC Collection & Attribution
+     ├─ TTP Analysis & MITRE ATT&CK Mapping
+     └─ Strategic Threat Reports & Forecasting
+
+Technical Development:
+  └─ AI-Powered Security Solutions
+     ├─ OSINT Automation Framework (n8n, Python, ELK)
+     ├─ ML-based Threat Detection (95%+ accuracy)
+     ├─ Automated Data Collection & Enrichment
+     └─ LLM Integration for Semantic Analysis
+
+Consulting Services:
+  └─ Strategic Intelligence Advisory
+     ├─ Geopolitical Risk Assessments
+     ├─ Conflict Zone Analysis & Forecasting
+     ├─ Custom OSINT Investigations
+     └─ Executive Briefings & Intelligence Reports
+```
 
 ---
 
@@ -200,153 +263,6 @@ intelligence_platform = {
 
 <div align="center">
 
-## Current Operations & Focus Areas
-
-</div>
-
-```yaml
-Platform Operations:
-  └─ Casus Belli Intelligence Platform
-     ├─ Geographic Coverage: 21 countries (Middle East, Caucasus, Central Asia)
-     ├─ Active Conflict Monitoring: 7 high-intensity zones
-     ├─ Real-time Intelligence: 45,000+ monthly data points
-     └─ Multi-language Analysis: 7 languages (FR/TR/EN/FA/AR/HE/RU)
-
-Threat Intelligence:
-  └─ APT & State-Sponsored Actor Tracking
-     ├─ Tracked Threat Actors: 124 active groups
-     ├─ IOC Collection & Attribution
-     ├─ TTP Analysis & MITRE ATT&CK Mapping
-     └─ Strategic Threat Reports & Forecasting
-
-Technical Development:
-  └─ AI-Powered Security Solutions
-     ├─ OSINT Automation Framework (n8n, Python, ELK)
-     ├─ ML-based Threat Detection (95%+ accuracy)
-     ├─ Automated Data Collection & Enrichment
-     └─ LLM Integration for Semantic Analysis
-
-Consulting Services:
-  └─ Strategic Intelligence Advisory
-     ├─ Geopolitical Risk Assessments
-     ├─ Conflict Zone Analysis & Forecasting
-     ├─ Custom OSINT Investigations
-     └─ Executive Briefings & Intelligence Reports
-```
-
----
-
-<div align="center">
-
-## Education & Academic Research
-
-</div>
-
-<table>
-<tr>
-<td width="70%">
-
-### ![Education](https://img.shields.io/badge/OSINT_Specialist-8B5CF6?style=flat-square&logo=graduation-cap&logoColor=white) University Degree — OSINT
-
-**Université de Technologie de Troyes (UTT)**
-
-`November 2025 - April 2026` | ![Status](https://img.shields.io/badge/Status-In_Progress-28A745?style=flat-square)
-
-Specialized program in Open Source Intelligence techniques, tools, and methodologies for intelligence collection and analysis.
-
-</td>
-<td width="30%" align="center">
-
-![UTT Logo](https://logo.clearbit.com/utt.fr)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="70%">
-
-### ![Master](https://img.shields.io/badge/Master's_Degree-FF6B35?style=flat-square&logo=graduation-cap&logoColor=white) MSc Cybersecurity & Artificial Intelligence
-
-**Efrei Paris Panthéon-Assas**
-
-`2023 - 2025` | ![Status](https://img.shields.io/badge/Status-Completed-0077B5?style=flat-square)
-
-Advanced studies in cybersecurity operations, threat intelligence, and AI/ML applications for security.
-
-</td>
-<td width="30%" align="center">
-
-![Efrei Logo](https://logo.clearbit.com/efrei.fr)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="70%">
-
-### ![Bachelor](https://img.shields.io/badge/Bachelor's_Degree-00D4FF?style=flat-square&logo=graduation-cap&logoColor=white) Cybersecurity & Ethical Hacking
-
-**Efrei Paris Panthéon-Assas**
-
-`2022 - 2023` | ![Status](https://img.shields.io/badge/Status-Completed-0077B5?style=flat-square)
-
-Foundation in cybersecurity principles, network security, penetration testing, and ethical hacking techniques.
-
-</td>
-<td width="30%" align="center">
-
-![Efrei Logo](https://logo.clearbit.com/efrei.fr)
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## Master's Thesis
-
-</div>
-
-<table>
-<tr>
-<td width="80%">
-
-### **"Geopolitical Destabilization through Hacktivists"**
-
-![Grade](https://img.shields.io/badge/Grade-16.5%2F20-28A745?style=for-the-badge)
-![Institution](https://img.shields.io/badge/Efrei_Paris-July_2025-FF6B35?style=for-the-badge&logo=graduation-cap)
-
-Research analyzing the impact of hacktivist and APT groups on global stability, with a specific focus on intelligence-backed cyber operations targeting France. The study examines:
-
-- Attack vectors and operational methodologies of state-sponsored actors
-- Threat actor motivations and strategic objectives
-- Geopolitical consequences of cyber warfare operations
-- Case studies of major cyber incidents affecting French interests
-- Attribution challenges and intelligence collection techniques
-
-</td>
-<td width="20%" align="center">
-
-![Research](https://img.shields.io/badge/Research-Cybersecurity-DC3545?style=for-the-badge&logo=book&logoColor=white)
-
-![Focus](https://img.shields.io/badge/Focus-Geopolitics-8B5CF6?style=for-the-badge&logo=globe&logoColor=white)
-
-![Type](https://img.shields.io/badge/Type-APT_Analysis-00D4FF?style=for-the-badge&logo=shield&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
 ## Let's Connect
 
 [![Portfolio FR](https://img.shields.io/badge/🌐_emirhan.fr-Visit-FF6B35?style=for-the-badge&logo=firefox)](https://emirhan.fr)
@@ -367,10 +283,6 @@ Research analyzing the impact of hacktivist and APT groups on global stability, 
 <br/>
 
 ---
-
-<br/>
-
-![Snake animation](https://raw.githubusercontent.com/emirhcan/emirhcan/output/github-contribution-grid-snake-dark.svg)
 
 <br/>
 
