@@ -54,57 +54,114 @@
 
 </div>
 
-```typescript
-interface IntelligencePlatform {
-  status: string;
-  founded: number;
-  mission: string;
-  intelligence: Record<string, string>;
-  coverage: { middle_east: number; caucasus: number; central_asia: number; total: number };
-  capabilities: string[];
-  tech: Record<string, string[]>;
-}
+<br/>
 
-const CASUS_BELLI: IntelligencePlatform = {
-  status: "🟢 OPERATIONAL",
-  founded: 2023,
+<div align="center">
 
-  mission: "Transform raw geopolitical data into actionable intelligence",
+### 🌍 CASUS BELLI GEOGRAPHIC COVERAGE
 
-  intelligence: {
-    GEOINT: "Satellite imagery & geospatial analysis",
-    OSINT: "Multi-source open intelligence collection",
-    HUMINT: "Human intelligence & field reporting",
-    CTI: "APT tracking & threat actor profiling",
-    AI_ML: "Automated threat detection & forecasting"
-  },
+<table>
+<tr>
+<td width="50%" align="center">
 
-  coverage: {
-    middle_east: 11,    // Turkey, Syria, Iraq, Iran, Israel, Lebanon...
-    caucasus: 3,        // Armenia, Azerbaijan, Georgia
-    central_asia: 7,    // Kazakhstan, Uzbekistan, Turkmenistan...
-    total: 21
-  },
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/World_map_-_low_resolution.svg/2000px-World_map_-_low_resolution.svg.png" width="100%"/>
 
-  capabilities: [
-    "Real-time conflict monitoring across 7 active zones",
-    "124 threat actors & APT groups tracked",
-    "Multi-language analysis (FR/TR/EN/FA/AR/HE/RU)",
-    "45,000+ intelligence data points processed monthly",
-    "Strategic forecasting & risk assessments",
-    "Custom OSINT investigations & executive briefings"
-  ],
+### **21 Countries Monitored Across 3 Strategic Regions**
 
-  tech: {
-    automation: ["Python", "n8n", "Docker", "Kubernetes"],
-    intelligence: ["OpenCTI", "MISP", "ELK Stack"],
-    analysis: ["LLM", "TensorFlow", "Scikit-learn"],
-    operations: ["XSOAR", "Splunk", "AWS"]
-  }
-};
+</td>
+<td width="50%">
 
-export default CASUS_BELLI;
-```
+### 🔴 MIDDLE EAST (11 countries)
+- 🇹🇷 Turkey
+- 🇸🇾 Syria
+- 🇮🇶 Iraq
+- 🇮🇷 Iran
+- 🇮🇱 Israel/Palestine
+- 🇱🇧 Lebanon
+- 🇯🇴 Jordan
+- 🇸🇦 Saudi Arabia
+- 🇦🇪 UAE
+- 🇾🇪 Yemen
+- 🇧🇭 Bahrain
+
+### 🟠 CAUCASUS (3 countries)
+- 🇦🇲 Armenia
+- 🇦🇿 Azerbaijan
+- 🇬🇪 Georgia
+
+### 🟢 CENTRAL ASIA (7 countries)
+- 🇰🇿 Kazakhstan
+- 🇺🇿 Uzbekistan
+- 🇹🇲 Turkmenistan
+- 🇰🇬 Kyrgyzstan
+- 🇹🇯 Tajikistan
+- 🇦🇫 Afghanistan
+- 🇵🇰 Pakistan (partial)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Intelligence Capabilities
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+![GEOINT](https://img.shields.io/badge/GEOINT-Satellite_&_Imagery-28A745?style=for-the-badge&logo=map)
+
+**Geospatial Intelligence**
+- Satellite imagery analysis
+- Terrain & infrastructure mapping
+- Military movement detection
+- Damage assessment
+
+</td>
+<td width="50%" align="center">
+
+![OSINT](https://img.shields.io/badge/OSINT-Multi--Source_Collection-00D4FF?style=for-the-badge&logo=search)
+
+**Open Source Intelligence**
+- Social media monitoring
+- Dark web tracking
+- Multi-language analysis (7 langs)
+- 45K+ monthly data points
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+![CTI](https://img.shields.io/badge/CTI-APT_&_Threat_Tracking-FF6B35?style=for-the-badge&logo=shield)
+
+**Cyber Threat Intelligence**
+- 124 threat actors tracked
+- APT profiling & attribution
+- IOC collection
+- TTP analysis (MITRE ATT&CK)
+
+</td>
+<td width="50%" align="center">
+
+![HUMINT](https://img.shields.io/badge/HUMINT-Field_Intelligence-8B5CF6?style=for-the-badge&logo=user)
+
+**Human Intelligence**
+- Field reporting & verification
+- Source network management
+- Strategic forecasting
+- Executive briefings
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
