@@ -55,6 +55,16 @@
 </div>
 
 ```typescript
+interface IntelligencePlatform {
+  status: string;
+  founded: number;
+  mission: string;
+  intelligence: Record<string, string>;
+  coverage: { middle_east: number; caucasus: number; central_asia: number; total: number };
+  capabilities: string[];
+  tech: Record<string, string[]>;
+}
+
 const CASUS_BELLI: IntelligencePlatform = {
   status: "🟢 OPERATIONAL",
   founded: 2023,
@@ -80,7 +90,7 @@ const CASUS_BELLI: IntelligencePlatform = {
     "Real-time conflict monitoring across 7 active zones",
     "124 threat actors & APT groups tracked",
     "Multi-language analysis (FR/TR/EN/FA/AR/HE/RU)",
-    "45,000+ intelligence data points monthly",
+    "45,000+ intelligence data points processed monthly",
     "Strategic forecasting & risk assessments",
     "Custom OSINT investigations & executive briefings"
   ],
@@ -88,10 +98,12 @@ const CASUS_BELLI: IntelligencePlatform = {
   tech: {
     automation: ["Python", "n8n", "Docker", "Kubernetes"],
     intelligence: ["OpenCTI", "MISP", "ELK Stack"],
-    analysis: ["LLM", "TensorFlow", "ML Models"],
+    analysis: ["LLM", "TensorFlow", "Scikit-learn"],
     operations: ["XSOAR", "Splunk", "AWS"]
   }
-}
+};
+
+export default CASUS_BELLI;
 ```
 
 ---
@@ -168,44 +180,6 @@ const CASUS_BELLI: IntelligencePlatform = {
 **Methodologies:** HUMINT • OSINT • GEOINT • CTI • Predictive Analytics & AI
 
 </div>
-
----
-
-<div align="center">
-
-## Current Operations & Focus
-
-</div>
-
-```yaml
-Platform Operations:
-  └─ Casus Belli Intelligence Platform
-     ├─ Geographic Coverage: 21 countries (Middle East, Caucasus, Central Asia)
-     ├─ Active Conflict Monitoring: 7 high-intensity zones
-     ├─ Real-time Intelligence: 45,000+ monthly data points
-     └─ Multi-language Analysis: 7 languages (FR/TR/EN/FA/AR/HE/RU)
-
-Threat Intelligence:
-  └─ APT & State-Sponsored Actor Tracking
-     ├─ Tracked Threat Actors: 124 active groups
-     ├─ IOC Collection & Attribution
-     ├─ TTP Analysis & MITRE ATT&CK Mapping
-     └─ Strategic Threat Reports & Forecasting
-
-Technical Development:
-  └─ AI-Powered Security Solutions
-     ├─ OSINT Automation Framework (n8n, Python, ELK)
-     ├─ ML-based Threat Detection (95%+ accuracy)
-     ├─ Automated Data Collection & Enrichment
-     └─ LLM Integration for Semantic Analysis
-
-Consulting Services:
-  └─ Strategic Intelligence Advisory
-     ├─ Geopolitical Risk Assessments
-     ├─ Conflict Zone Analysis & Forecasting
-     ├─ Custom OSINT Investigations
-     └─ Executive Briefings & Intelligence Reports
-```
 
 ---
 
